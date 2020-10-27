@@ -1,6 +1,6 @@
 cffi==1.14.0
 click==7.1.1
-cryptography==2.9
+cryptography==3.2
 Flask==1.1.2
 Flask-SQLAlchemy==2.4.1
 itsdangerous==1.1.0
