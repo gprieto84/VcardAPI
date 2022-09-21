@@ -5,7 +5,7 @@ Flask==1.1.2
 Flask-SQLAlchemy==2.4.1
 itsdangerous==1.1.0
 Jinja2==2.11.2
-jwcrypto==0.7
+jwcrypto==1.4
 jwt==1.0.0
 MarkupSafe==1.1.1
 Pillow==7.1.1
